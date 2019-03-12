@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552422790 source:c:\users\peyto\game test\game one\main.c
+	"sl.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1478976720 c:\users\peyto\game test\game one\include\sl.h
+
